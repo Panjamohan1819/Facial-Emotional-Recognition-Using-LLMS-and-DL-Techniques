@@ -1,0 +1,2 @@
+# Facial-Emotional-Recognition-Using-LLMS-and-DL-Techniques
+ Facial Expression Recognition Web App using Flask, Deep Learning &amp; OpenCV This project is a Facial Expression Recognition (FER) web application built using Flask, OpenCV, and a pre-trained deep learning model (CNN). It allows users to upload facial images and receive an analysis of the detected emotion from a set of predefined categories.
